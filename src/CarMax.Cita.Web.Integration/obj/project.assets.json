@@ -5733,11 +5733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\219204\\Documents\\EntGitHub\\website\\src\\CarMax.Cita.Web.Integration\\CarMax.Cita.Web.Integration.csproj",
+      "projectUniqueName": "C:\\Users\\219204\\Documents\\GitHub\\cita-website\\src\\CarMax.Cita.Web.Integration\\CarMax.Cita.Web.Integration.csproj",
       "projectName": "CarMax.Cita.Web.Integration",
-      "projectPath": "C:\\Users\\219204\\Documents\\EntGitHub\\website\\src\\CarMax.Cita.Web.Integration\\CarMax.Cita.Web.Integration.csproj",
+      "projectPath": "C:\\Users\\219204\\Documents\\GitHub\\cita-website\\src\\CarMax.Cita.Web.Integration\\CarMax.Cita.Web.Integration.csproj",
       "packagesPath": "C:\\Users\\219204\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\219204\\Documents\\EntGitHub\\website\\src\\CarMax.Cita.Web.Integration\\obj\\",
+      "outputPath": "C:\\Users\\219204\\Documents\\GitHub\\cita-website\\src\\CarMax.Cita.Web.Integration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5756,8 +5756,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\219204\\Documents\\EntGitHub\\website\\src\\CarMax.Cita.Web\\CarMax.Cita.Web.csproj": {
-              "projectPath": "C:\\Users\\219204\\Documents\\EntGitHub\\website\\src\\CarMax.Cita.Web\\CarMax.Cita.Web.csproj"
+            "C:\\Users\\219204\\Documents\\GitHub\\cita-website\\src\\CarMax.Cita.Web\\CarMax.Cita.Web.csproj": {
+              "projectPath": "C:\\Users\\219204\\Documents\\GitHub\\cita-website\\src\\CarMax.Cita.Web\\CarMax.Cita.Web.csproj"
             }
           }
         }

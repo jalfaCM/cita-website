@@ -11512,11 +11512,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\219204\\Documents\\EntGitHub\\website\\src\\CarMax.Cita.Web\\CarMax.Cita.Web.csproj",
+      "projectUniqueName": "C:\\Users\\219204\\Documents\\GitHub\\cita-website\\src\\CarMax.Cita.Web\\CarMax.Cita.Web.csproj",
       "projectName": "CarMax.Cita.Web",
-      "projectPath": "C:\\Users\\219204\\Documents\\EntGitHub\\website\\src\\CarMax.Cita.Web\\CarMax.Cita.Web.csproj",
+      "projectPath": "C:\\Users\\219204\\Documents\\GitHub\\cita-website\\src\\CarMax.Cita.Web\\CarMax.Cita.Web.csproj",
       "packagesPath": "C:\\Users\\219204\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\219204\\Documents\\EntGitHub\\website\\src\\CarMax.Cita.Web\\obj\\",
+      "outputPath": "C:\\Users\\219204\\Documents\\GitHub\\cita-website\\src\\CarMax.Cita.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
