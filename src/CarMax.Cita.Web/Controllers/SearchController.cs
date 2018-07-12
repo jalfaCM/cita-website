@@ -5,20 +5,22 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using CarMax.Cita.Web.Models;
+using CarMax.Cita.Web.Gateways;
+using CarMax.Cita.Web.Models.Mappings;
 
 namespace CarMax.Cita.Web.Controllers
 {
     public class SearchController : Controller
     {
+        [HttpGet]
         public IActionResult Index()
         {
-            return View();
-        }
+            var model = new SearchViewModel();
+            var gateway = new InMemorySearchGateway();
+            var cars = gateway.GetCars();
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            model.Cars = cars.Select(x => SearchCarViewModelMapper.Map(x)).ToList();
+            return View();
         }
     }
 }

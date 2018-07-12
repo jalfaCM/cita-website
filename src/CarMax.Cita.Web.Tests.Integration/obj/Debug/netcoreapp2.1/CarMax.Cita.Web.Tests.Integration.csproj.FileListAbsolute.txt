@@ -1,0 +1,14 @@
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\bin\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.deps.json
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\bin\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.runtimeconfig.json
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\bin\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.runtimeconfig.dev.json
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\bin\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.dll
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\bin\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.pdb
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\obj\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.csprojAssemblyReference.cache
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\obj\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.csproj.CoreCompileInputs.cache
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\obj\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.AssemblyInfoInputs.cache
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\obj\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.AssemblyInfo.cs
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\obj\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.dll
+C:\Users\219204\Documents\GitHub\cita-website\src\CarMax.Cita.Web.Tests.Integration\obj\Debug\netcoreapp2.1\CarMax.Cita.Web.Tests.Integration.pdb
